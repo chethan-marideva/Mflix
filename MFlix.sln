@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFlix", "MFlix\MFlix.csproj", "{455E6376-4D97-4466-AB30-5E145AF1FE73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{455E6376-4D97-4466-AB30-5E145AF1FE73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455E6376-4D97-4466-AB30-5E145AF1FE73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455E6376-4D97-4466-AB30-5E145AF1FE73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455E6376-4D97-4466-AB30-5E145AF1FE73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F5025B-9BAB-4610-AB4C-DB6AB5218D6B}
+	EndGlobalSection
+EndGlobal
